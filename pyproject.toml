@@ -1,6 +1,6 @@
 [project]
 name = "gbk-character-tools"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python GBK codec with byte offsets and character indices in error messages."
 requires-python = ">=3.10"
 dependencies = []
